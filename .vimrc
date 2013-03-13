@@ -17,6 +17,7 @@ let Tlist_Auto_Highlight_Tag=1
 let Tlist_Show_One_File=1
 let Tlist_Sort_Type="name"
 let Tlist_Use_Right_Window=1
+set ignorecase
 
 " Colorscheme stuff
 " colorscheme github
@@ -46,7 +47,7 @@ map <C-l> <C-w>l
 map ß :sp<CR>
 
 " Close windows with a double-Esc.
-map <Esc><Esc> :q<CR>
+" map <Esc><Esc> :q<CR>
 
 " Open all buffers in vertical splits with Opt+vv.
 map √√ :vert sba<CR>
@@ -67,6 +68,9 @@ set foldlevelstart=20
 " Insert current date.
 :nnoremap <F5> "=strftime("%c")<CR>P
 :inoremap <F5> <C-R>=strftime("%Y-%m-%d")<CR>
+
+" Use :tjump for <C-]>, rather than just going to the first chosen result.
+map <C-]> :tjump <C-R>=RubyCursorIdentifier()<CR><CR>
 
 
 " Configure buffergator

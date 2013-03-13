@@ -16,6 +16,7 @@ let g:indexer_disableCtagsWarning=1
 let Tlist_Auto_Highlight_Tag=1
 let Tlist_Show_One_File=1
 let Tlist_Sort_Type="name"
+let Tlist_Use_Right_Window=1
 
 " Colorscheme stuff
 " colorscheme github

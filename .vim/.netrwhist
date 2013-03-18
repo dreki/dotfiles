@@ -1,3 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/seangilbertson/code/sullivan_cotter'
+let g:netrw_dirhist_2='/Users/seangilbertson/code/sullivan_cotter/app/importers'
+let g:netrw_dirhist_3='/Users/seangilbertson/code/sullivan_cotter'
+let g:netrw_dirhist_4='/Users/seangilbertson/code/sullivan_cotter/spec/importers'
+let g:netrw_dirhist_5='/Users/seangilbertson/code/sullivan_cotter'
+let g:netrw_dirhist_6='/Users/seangilbertson/code/sullivan_cotter/script'
+let g:netrw_dirhist_7='/Users/seangilbertson/code/sullivan_cotter'
+let g:netrw_dirhist_8='/Users/seangilbertson/code/sullivan_cotter/spec'
+let g:netrw_dirhist_9='/Users/seangilbertson/code/sullivan_cotter'

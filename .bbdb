@@ -1,0 +1,6 @@
+;; -*-coding: utf-8-emacs;-*-
+;;; file-version: 6
+["Jackie" "Baldwin" nil "Ackmann & Dickenson" nil nil ("jbaldwin@ackmanndickenson.com") ((creation-date . "2013-04-25") (timestamp . "2013-04-25")) nil]
+["Sean" "Gilbertson" nil "Ackmann & Dickenson" nil nil ("sgilbertson@ackmanndickenson.com") ((notes . "me!") (creation-date . "2013-04-25") (timestamp . "2013-04-25")) nil]
+["Dave" "Reidy" nil nil nil nil ("dreidy@ackmanndickenson.com") ((creation-date . "2013-04-23") (timestamp . "2013-04-23")) nil]
+["William" "Watson" nil nil nil nil ("william@ackmanndickenson.com" "will@ackmanndickenson.com") ((creation-date . "2013-04-23") (timestamp . "2013-04-23")) nil]
